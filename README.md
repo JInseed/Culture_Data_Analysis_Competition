@@ -1,11 +1,11 @@
-# 문화 관공 데이터 분석 대회(2022)
+# 문화 관광 데이터 분석 대회(2022)
 <br>
 <br>
 
 <img src = "https://github.com/JInseed/Culture_Data_Analysis_Competition/assets/120428959/20cbb375-4da1-4433-aca1-72d240572357" align = "center" width = "70%">
 <br>
 
-#### *팀원과 함께한 첫 공모전, [통계데이터 분석 활용대회](https://github.com/JInseed/Statistics_Data_Analysis_Competition.git) 와 동시에 참가하며 둘 다 제대로 완성하지 못했으며 과정도 미흡*
+#### *팀원과 함께한 첫 공모전, [통계데이터 분석 활용대회](https://github.com/JInseed/Statistics_Data_Analysis_Competition.git) 와 동시에 참가하며 둘 다 제대로 완성하지 못함🥲*
 <br>
 
 ## 진행기간
